@@ -1,0 +1,96 @@
+
+.head{
+    margin-top: 20px;
+    width: 100%;
+    position: fixed;
+    z-index: 66;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: var(--header); */
+}
+
+
+.head .fa-bars-staggered{
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.head button{
+    display: none;
+}
+
+
+.head .icon .fa-utensils{
+    display: none;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+
+
+.head .nav ul{
+    display: flex;
+    justify-content: center;
+}
+
+.head .nav ul li{
+    margin-left: 10px;
+    padding: 0 10px;
+}
+
+.head .nav ul li a{
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+.head .nav ul li a:hover{
+    color: rgba(0, 128, 0, 0.588);
+}
+
+
+@media (max-width:575px){
+    
+.head button{
+    display: block;
+}
+.head .nav ul{
+    display: none;
+}
+
+}
+
+
+
+
+.head .show-menu{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    inset: 0;
+    z-index: 9;
+    background-color: rgba(0, 0, 0, 0.856);
+    color: #fff;
+}
+
+.head .show-menu ul{
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.head .show-menu ul li {
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+.head .show-menu ul button{
+    text-align: right;
+}

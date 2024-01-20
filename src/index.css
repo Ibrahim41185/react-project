@@ -1,0 +1,30 @@
+.light {
+  margin-bottom: 100px;
+}
+
+.border{
+  border: 2px solid red;
+}
+
+
+ :root{
+  --header: #A94438 ;
+  --main:#D24545 ;
+  --projects:#E6BAA3 ;
+  --skills: #E4DEBE;
+}
+
+button {
+  all: unset;
+}
+/* body{
+  background-color: var(--main);
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}

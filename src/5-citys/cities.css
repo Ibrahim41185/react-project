@@ -1,0 +1,67 @@
+.content{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+
+
+.content .div1 img{
+    width: 250px;
+}
+
+
+.content .div1 .pirsonal{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content .div1 .pirsonal .fa-user-minus, .fa-twitter, .fa-star{
+    font-size: 1em;
+    font-weight: bold;
+    color: rgba(0, 128, 0, 0.588);
+    
+}
+
+  .content .cities{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    font-size: 2.8em;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+.content .cities::after{
+    content: '';
+    position: absolute;
+    top: 70px;
+    left: 23%;
+    width: 600px;
+    bottom: -5px;
+    height: 4px;
+    background-color:  rgba(0, 128, 0, 0.588);
+}
+
+
+
+
+.content .div2 img{
+    width: 250px;
+
+}
+
+
+.content .div3 img{
+    width: 250px;
+
+}
+
+.content .div4 img{
+    width: 250px;
+
+}

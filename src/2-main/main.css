@@ -1,0 +1,66 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    padding-left: 200px;
+    display: flex;
+    align-items: center;
+    background: url(/public/pexels-eriks-abzinovs-3117228.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.main .text {
+    width: 100%;
+}
+
+.main .text h2 {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.main .text p {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.main .button {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.main .button .but1 {
+    background-color: rgba(0, 128, 0, 0.588);
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid green;
+    margin: 10px 20px;
+    border-radius: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+.main .button .but2 {
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid green;
+    margin: 10px 20px;
+    border-radius: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.main .button .but2:hover {
+    background-color: rgba(0, 128, 0, 0.588);
+}
+
+
+
+.main .button .but1:hover {
+    background: none;
+}
