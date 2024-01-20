@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ibrahim41185/react-project/static/css/main.185c5fc3.css",
+    "main.js": "/Ibrahim41185/react-project/static/js/main.6a71360f.js",
+    "static/js/787.10e3bfc3.chunk.js": "/Ibrahim41185/react-project/static/js/787.10e3bfc3.chunk.js",
+    "static/media/pexels-eriks-abzinovs-3117228.jpg": "/Ibrahim41185/react-project/static/media/pexels-eriks-abzinovs-3117228.56bd44c29f40abcbdcf5.jpg",
+    "static/media/pexels-irina-iriser-1420003.jpg": "/Ibrahim41185/react-project/static/media/pexels-irina-iriser-1420003.d0381f57e0050efcdda3.jpg",
+    "static/media/pexels-irina-iriser-1408218.jpg": "/Ibrahim41185/react-project/static/media/pexels-irina-iriser-1408218.78b6ac78148f29ede95a.jpg",
+    "static/media/pexels-mark-neal-3331792.jpg": "/Ibrahim41185/react-project/static/media/pexels-mark-neal-3331792.e8d6582df60d8000c4fd.jpg",
+    "static/media/pexels-irina-iriser-1420019.jpg": "/Ibrahim41185/react-project/static/media/pexels-irina-iriser-1420019.1d1cb8699b1afc939023.jpg",
+    "static/media/pexels-lil-artsy-3015400.jpg": "/Ibrahim41185/react-project/static/media/pexels-lil-artsy-3015400.578f5f7a185da1bce0bd.jpg",
+    "static/media/pexels-lil-artsy-3750768.jpg": "/Ibrahim41185/react-project/static/media/pexels-lil-artsy-3750768.7c143a87280683fc220f.jpg",
+    "index.html": "/Ibrahim41185/react-project/index.html",
+    "main.185c5fc3.css.map": "/Ibrahim41185/react-project/static/css/main.185c5fc3.css.map",
+    "main.6a71360f.js.map": "/Ibrahim41185/react-project/static/js/main.6a71360f.js.map",
+    "787.10e3bfc3.chunk.js.map": "/Ibrahim41185/react-project/static/js/787.10e3bfc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.185c5fc3.css",
+    "static/js/main.6a71360f.js"
+  ]
+}
