@@ -35,14 +35,8 @@ const Header = () => {
             <li><a>projects</a></li>
             <li><a>skills</a></li>
             <li><a>contact</a></li>
-
-
-
-
           </ul>
-
         </div>}
-
 
       </div>
 
